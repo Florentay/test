@@ -6,3 +6,5 @@ Commit test
 Add line
 new branch line
 Tomas Zein
+Find Alice 
+New line for gui
